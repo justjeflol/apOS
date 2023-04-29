@@ -2,6 +2,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
+audacity
 b43-fwcutter
 base
 bind
@@ -29,6 +30,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+flatpak
 fsarchiver
 gamescope
 gnu-netcat
