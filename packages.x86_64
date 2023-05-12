@@ -30,7 +30,6 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-flatpak
 fsarchiver
 gamescope
 gnu-netcat
@@ -125,3 +124,4 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
